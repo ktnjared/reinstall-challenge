@@ -11,11 +11,11 @@ I am continuing to keep track of just how ridiculous I am and attempting to bett
 
 ### Yearly
 
-| Year | File | Successful?                   |
-| ---- | ---- | ----------------------------- |
-| 2018 | TODO | :no_entry: No                 |
-| 2019 | TODO | :no_entry: No                 |
-| 2020 | TODO | ":warning: Partial" (to date) |
+| Year                                                                      | Successful?                       |
+| ------------------------------------------------------------------------- | --------------------------------- |
+| [2018](https://github.com/ktnjared/reinstall-challenge/blob/main/2018.md) | :red_circle: No                   |
+| [2019](https://github.com/ktnjared/reinstall-challenge/blob/main/2019.md) | :red_circle: No                   |
+| [2020](https://github.com/ktnjared/reinstall-challenge/blob/main/2020.md) | :yellow_circle: Partial (to date) |
 
 ### Points of Interest
 
