@@ -21,7 +21,7 @@ I am continuing to keep track of just how ridiculous I am and attempting to bett
 | 2017            | :x:                                   |
 | [2018](2018.md) | :x:                                   |
 | [2019](2019.md) | :x:                                   |
-| [2020](2020.md) | :pinching_hand:                       |
+| [2020](2020.md) | :white_check_mark:                    |
 | [2021](2021.md) | :white_check_mark: (as of 2021-01-10) |
 
 ### Points of Interest
