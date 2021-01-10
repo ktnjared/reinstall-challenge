@@ -31,7 +31,7 @@ I am continuing to keep track of just how ridiculous I am and attempting to bett
 - 2020
   - Second year that I did not re-installed my primary computers on New Year Day.
   - First year that I renamed computers/devices.
-  - **After 8 years, I successfully met the goals for once!**
+  - **After 9 years, I successfully met the goals for once!**
 
 <!-- Links -->
 [nuke n pave]: https://www.urbandictionary.com/define.php?term=nuke%20n%20pave
