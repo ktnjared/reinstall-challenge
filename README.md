@@ -20,8 +20,8 @@ I am continuing to keep track of just how ridiculous I am and attempting to bett
 | 2016            | :x:                                   |
 | 2017            | :x:                                   |
 | [2018](2018.md) | :x:                                   |
-| [2019](2019.md) | :x:                                   |
-| [2020](2020.md) | :pinching_hand:                       |
+| [2019](2019.md) | :pinching_hand:                       |
+| [2020](2020.md) | :white_check_mark:                    |
 | [2021](2021.md) | :white_check_mark: (as of 2021-01-10) |
 
 ### Points of Interest
@@ -31,6 +31,7 @@ I am continuing to keep track of just how ridiculous I am and attempting to bett
 - 2020
   - Second year that I did not re-installed my primary computers on New Year Day.
   - First year that I renamed computers/devices.
+  - **After 9 years, I successfully met the goals for once!**
 
 <!-- Links -->
 [nuke n pave]: https://www.urbandictionary.com/define.php?term=nuke%20n%20pave
