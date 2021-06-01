@@ -13,7 +13,8 @@ Given how difficult it is to source components, particularly CPUs and GPUs, on t
 | Ordered                                    | 2021-04-30 |
 | Estimated Ship Date (as of 2021-04-30)     | 2021-05-28 |
 | Estimated Delivery Date (as of 2021-04-30) | 2021-06-02 |
-| Shipped (Actual)                           |            |
+| Shipped (Actual)                           | 2021-05-30 |
+| Estimated Delivery Date (as of 2021-05-30) | 2021-06-08 |
 | Recieved (Actual)                          |            |
 
 ### Reviews
