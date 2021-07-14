@@ -1,6 +1,8 @@
-# Jared's New Desktop (name TBD)
+# Zeal
 
 [Hewlett-Packard][hp] [Omen 30L Desktop GT13-0280z][computer]
+
+The name is inspired by [Queen Zeal][queenzeal] from [Chrono Trigger][chronotrigger], for her association with the [Black Omen][blackomen]. I thought the name was appropriate since the computer is, indeed, a black-cased Omen computer. 😆
 
 ## Details 
 
@@ -44,6 +46,8 @@ Given how difficult it is to source components, particularly CPUs and GPUs, on t
 | Rear I/O                  | - 4x USB 3.2 Gen 1 Type-A ports <br> - 1x USB 3.2 Gen 2 Type-A port <br> - 1x USB 3.2 Gen 2 Type-C port <br> - Audio ports (line-in/line-out/microphone) |
 | OS                        | [Windows 10 Pro][win10pro]                                                                                                                               |
 
+[blackomen]: https://www.chronowiki.org/wiki/Black_Omen_(Location)
+[chronotrigger]: https://www.chronowiki.org/wiki/Chrono_Trigger
 [computer]: https://www.hp.com/us-en/shop/pdp/omen-30l-desktop-gt13-0280z-1a227av-1
 [cpu]: https://www.amd.com/en/products/cpu/amd-ryzen-7-3700x
 [eth]: https://www.realtek.com/en/products/communications-network-ics/item/rtl8118as
@@ -52,6 +56,7 @@ Given how difficult it is to source components, particularly CPUs and GPUs, on t
 [hp]: https://www.hp.com/
 [jennareview]: https://youtu.be/kFdBurGcxJg
 [mobo]: https://support.hp.com/us-en/document/c06611431
+[queenzeal]: https://www.chronowiki.org/wiki/Queen_Zeal
 [ram]: https://www.hyperxgaming.com/unitedstates/us/memory/fury-ddr4-rgb
 [wifi]: https://ark.intel.com/content/www/us/en/ark/products/130293/intel-wi-fi-6-ax201-gig.html
 [win10pro]: https://www.microsoft.com/en-us/windowsforbusiness/windows-10-pro
