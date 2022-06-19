@@ -11,18 +11,19 @@ I am continuing to keep track of just how ridiculous I am and attempting to bett
 
 ### Yearly
 
-| Year            | Successful?                           |
-| --------------- | ------------------------------------- |
-| 2012            | :x:                                   |
-| 2013            | :x:                                   |
-| 2014            | :x:                                   |
-| 2015            | :x:                                   |
-| 2016            | :x:                                   |
-| 2017            | :x:                                   |
-| [2018](2018.md) | :x:                                   |
-| [2019](2019.md) | :pinching_hand:                       |
-| [2020](2020.md) | :white_check_mark:                    |
-| [2021](2021.md) | :white_check_mark: (as of 2021-01-10) |
+| Year            | Successful?        |
+| --------------- | ------------------ |
+| 2012            | :x:                |
+| 2013            | :x:                |
+| 2014            | :x:                |
+| 2015            | :x:                |
+| 2016            | :x:                |
+| 2017            | :x:                |
+| [2018](2018.md) | :x:                |
+| [2019](2019.md) | :pinching_hand:    |
+| [2020](2020.md) | :white_check_mark: |
+| [2021](2021.md) | :white_check_mark: |
+| [2022](2022.md) |                    |
 
 ### Points of Interest
 
